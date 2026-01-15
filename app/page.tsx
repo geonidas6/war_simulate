@@ -214,6 +214,18 @@ export default function Home() {
                         +228 90 78 75 99
                       </a>
                     </p>
+                    <p>
+                      <span className="text-gray-500">Portfolio:</span>{' '}
+                      <a href="https://sefapanel.com/" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:underline">
+                        sefapanel.com
+                      </a>
+                    </p>
+                    <p>
+                      <span className="text-gray-500">Codeur.com:</span>{' '}
+                      <a href="https://www.codeur.com/-patriceatcu1" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:underline">
+                        Profil Codeur
+                      </a>
+                    </p>
                   </div>
                 </div>
               </div>
