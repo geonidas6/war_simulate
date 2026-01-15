@@ -23,7 +23,10 @@ export function SetupScreen({ onStart, loading }: SetupScreenProps) {
             >
                 <div className="text-center space-y-2">
                     <h1 className="text-4xl font-bold tracking-tighter uppercase">WORLD WAR SIMULATOR</h1>
-                    <p className="text-gray-500 text-sm">Select protocols to initiate conflict scenario analysis.</p>
+                    <p className="text-gray-400 text-sm max-w-md mx-auto leading-relaxed">
+                        <strong className="text-red-500">OBJECTIVE:</strong> To awaken consciousness to the fragile nature of peace and the devastating potential of modern geopolitical escalation.
+                    </p>
+                    <p className="text-gray-600 text-xs">Select protocols to initiate conflict scenario analysis.</p>
                 </div>
 
                 <div className="flex flex-col gap-6">
